@@ -1,0 +1,36 @@
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  scroll-behavior: smooth;
+}
+
+section, header {
+  scroll-margin-top: 70px;
+}
+
+.hero-section {
+  min-height: 90vh;
+  padding-top: 80px;
+  background: linear-gradient(135deg, #071522 0%, #0d3b52 60%, #0dcaf0 150%);
+}
+
+.card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15) !important;
+}
+
+.card .badge.position-absolute {
+  z-index: 2;
+}
+
+footer i {
+  transition: opacity 0.2s ease;
+}
+
+footer i:hover {
+  opacity: 0.7;
+}
