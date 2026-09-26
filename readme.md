@@ -20,5 +20,3 @@ categorias, tabela de opções de frete e formulário de contato, totalmente res
 - **Tipografia** (Aula #08): `display-3`, `lead`, `fw-bold`, `text-uppercase`.
 - **Cores** (Aula #02): `bg-dark`, `bg-light`, `text-info`, badges coloridos.
 - **Spacing** (Aula #05): `py-5`, `mb-4`, `mt-4`, `g-4`, etc.
-
-## 📁 Estrutura de arquivos# bootstrap-iot
